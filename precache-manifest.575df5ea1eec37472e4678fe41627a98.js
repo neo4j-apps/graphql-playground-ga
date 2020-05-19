@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48777c113af1154b603a2f47a43abba8",
+    "revision": "563d374125e38dd322a45c8ced8f60d4",
     "url": "/graphql-playground-ga/index.html"
   },
   {
