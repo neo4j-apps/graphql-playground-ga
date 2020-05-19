@@ -60,7 +60,6 @@
   },
   "np": {
     "yarn": true,
-    "contents": "dist",
     "releaseDraft": true
   },
   "publishConfig": {
