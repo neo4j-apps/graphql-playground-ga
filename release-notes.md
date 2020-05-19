@@ -1,4 +1,4 @@
-# Graphql Playground GA 1.0
+# Graphql Playground GA 0.1.3
 
-- initial integration, bootstrapping the playground to use Relate API endpoint
+- learning about publishing workflow
 
