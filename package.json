@@ -2,7 +2,7 @@
   "name": "@neo4j-apps/graphql-playground-ga",
   "description": "GraphQL Playground as a Graph App",
   "homepage": ".",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "main": "dist/index.html",
   "neo4jDesktop": {
     "apiVersion": "^1.4.0"
