@@ -1,7 +1,7 @@
 {
   "name": "@neo4j-apps/graphql-playground-ga",
   "description": "GraphQL Playground as a Graph App",
-  "homepage": "https://neo4j-apps.github.io/graphql-playground-ga",
+  "homepage": ".",
   "version": "0.1.5",
   "main": "dist/index.html",
   "neo4jDesktop": {
@@ -34,7 +34,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "release": "np"
   },
   "eslintConfig": {
