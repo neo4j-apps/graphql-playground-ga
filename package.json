@@ -29,7 +29,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "release": "np"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -48,6 +49,13 @@
   },
   "devDependencies": {
     "@types/react-redux": "^7.1.8",
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^2.2.0",
+    "np": "^6.2.3"
+  },
+  "np": {
+    "yarn": true
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
