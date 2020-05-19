@@ -2,7 +2,7 @@
   "name": "@neo4j-apps/graphql-playground-ga",
   "description": "GraphQL Playground as a Graph App",
   "homepage": "https://neo4j-apps.github.io/graphql-playground-ga",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "main": "dist/index.html",
   "neo4jDesktop": {
     "apiVersion": "^1.4.0"
@@ -61,13 +61,13 @@
   "np": {
     "yarn": true,
     "contents": "dist",
-    "releaseDraft":true
+    "releaseDraft": true
   },
   "publishConfig": {
     "access": "public"
   },
   "files": [
-    "dist", 
+    "dist",
     "release-notes.md"
   ]
 }
