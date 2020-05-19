@@ -1,3 +1,10 @@
+# GraphQL Playground GA
+
+
+https://registry.npmjs.org/@neo4j-apps/graphql-playground-ga
+
+# CREATE REACT APP
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
